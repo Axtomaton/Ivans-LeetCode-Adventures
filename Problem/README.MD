@@ -7,11 +7,12 @@
 
 ---
 
-### Easy (4)
+### Easy (5)
 | # | Title | Status |
 | - | - | - |
 | 1 | [Two Sum](Easy\P1) | WA |
 | 9 | [Palindrome Number](Easy\P9) | WA |
+| 125 | [Valid Palindrome](Easy\P125) | WA |
 | 217 | [Contains Duplicate](Easy\P217) | WA |
 | 242 | [Valid Anagram](Easy\P242) | WA |
 
