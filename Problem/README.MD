@@ -7,20 +7,24 @@
 
 ---
 
-### Easy (5)
+### Easy (8)
 | # | Title | Status |
 | - | - | - |
 | 1 | [Two Sum](Easy\P1) | WA |
 | 9 | [Palindrome Number](Easy\P9) | WA |
 | 125 | [Valid Palindrome](Easy\P125) | WA |
 | 217 | [Contains Duplicate](Easy\P217) | WA |
+| 231 | [Power of Two](Easy/P231) | WA |
 | 242 | [Valid Anagram](Easy\P242) | WA |
+| 326 | [Power of Three](Easy/P326) | WA |
+| 2729 | [Check if The Number is Fascinating](Easy/P2729) | WA |
 
 ---
 
-### Medium (1)
+### Medium (2)
 | # | Title | Status |
 | - | - | - |
+| 3 | [Longest Substring Without Repeating Characters](Medium/P3) | WA |
 | 7 | [Reverse Integer](Medium\P7) | WA |
 
 ---

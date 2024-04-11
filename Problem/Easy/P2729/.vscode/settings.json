@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "string": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++"
+}
