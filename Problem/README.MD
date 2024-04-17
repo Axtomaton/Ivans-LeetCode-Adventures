@@ -7,11 +7,13 @@
 
 ---
 
-### Easy (8)
+### Easy (10)
 | # | Title | Status |
 | - | - | - |
 | 1 | [Two Sum](Easy\P1) | WA |
 | 9 | [Palindrome Number](Easy\P9) | WA |
+| 70 | [Climbing Stairs](Easy\P70) | WA |
+| 118 | [Pascal's Triangle](Easy\P118) | WA |
 | 125 | [Valid Palindrome](Easy\P125) | WA |
 | 217 | [Contains Duplicate](Easy\P217) | WA |
 | 231 | [Power of Two](Easy/P231) | WA |

@@ -1,28 +1,35 @@
 /*✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
 @author : Ivan Lin (3rd Year SE)
 @school : Rochester Institute of Technology
-@date   : 2024-04-07
+@date   : 2024-04-16
 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦*/
 
-
 #include <bits/stdc++.h>
-#include <string>
+
 using namespace std;
+
 
 class Solution {
 public:
+    vector<vector<int>> solve()
 
-    int calculate(int from, int to){
-        return 0;
-    }
 
-    int lengthOfLongestSubstring(string s) {
-        vector<vector<int>> dp;
-        //intialize two ptrs
-        int l = 0;
-        int r = 1;
-        int n = s.size();
-        return dp[0][n]
-        
+    vector<vector<int>> generate(int numRows) {
+        if (numRows == 1){
+            return 1;
+        }
+        vector<vector<int>> dp = dp(numRows, vector<NumRows, -1>);
+
     }
 };
+
+
+
+
+#ifdef RUNLOCAL
+int main() {
+    Solution solution;
+
+}
+#endif
+// ~ NaXVI - g++ code.cpp --std=c++2a -DRUNLOCAL && ./a
